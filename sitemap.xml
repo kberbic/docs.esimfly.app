@@ -6,7 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kberbic.github.io/esimfly-manual-public/bs/</loc>
+         <loc>https://kberbic.github.io/esimfly-manual-public/ba/</loc>
+         <lastmod>2024-06-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kberbic.github.io/esimfly-manual-public/sr/</loc>
          <lastmod>2024-06-21</lastmod>
          <changefreq>daily</changefreq>
     </url>

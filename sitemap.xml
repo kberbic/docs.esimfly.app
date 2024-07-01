@@ -6,7 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.esimfly.app/ba/</loc>
+         <loc>https://docs.esimfly.app/bs/</loc>
+         <lastmod>2024-07-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.esimfly.app/hr/</loc>
          <lastmod>2024-07-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
